@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: f7c613209e05c4747929fb2212ec0acd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8407553939649857251
+    second: ParticlesSprietAtlas_0
+  - first:
+      213: 338423263624031232
+    second: ParticlesSprietAtlas_1
+  - first:
+      213: -797430973281930598
+    second: ParticlesSprietAtlas_2
+  - first:
+      213: 2093139942013392176
+    second: ParticlesSprietAtlas_3
+  - first:
+      213: 6697381996231931220
+    second: ParticlesSprietAtlas_4
+  - first:
+      213: -1212028811964048150
+    second: ParticlesSprietAtlas_5
+  - first:
+      213: 9015952097772705706
+    second: ParticlesSprietAtlas_6
+  - first:
+      213: 7711255589091570436
+    second: ParticlesSprietAtlas_7
+  - first:
+      213: 8583331930191701411
+    second: ParticlesSprietAtlas_8
+  - first:
+      213: -3316215556650904336
+    second: ParticlesSprietAtlas_9
+  - first:
+      213: 7245758283017795711
+    second: ParticlesSprietAtlas_10
+  - first:
+      213: -6610934367177748489
+    second: ParticlesSprietAtlas_11
+  - first:
+      213: -1123175050477710574
+    second: ParticlesSprietAtlas_12
+  - first:
+      213: 6047285090628117994
+    second: ParticlesSprietAtlas_13
+  - first:
+      213: -5893813688922447308
+    second: ParticlesSprietAtlas_14
+  - first:
+      213: -8900325732472725572
+    second: ParticlesSprietAtlas_15
+  - first:
+      213: 3716633770921014061
+    second: ParticlesSprietAtlas_16
+  - first:
+      213: -8263533249482319509
+    second: ParticlesSprietAtlas_17
+  - first:
+      213: -8113996900762928124
+    second: ParticlesSprietAtlas_18
+  - first:
+      213: 1481533050668809743
+    second: ParticlesSprietAtlas_19
+  - first:
+      213: 3275852219989683736
+    second: ParticlesSprietAtlas_20
+  - first:
+      213: -4335280779468908717
+    second: ParticlesSprietAtlas_21
+  - first:
+      213: 8949938266625260988
+    second: ParticlesSprietAtlas_22
+  - first:
+      213: 286711630428103807
+    second: ParticlesSprietAtlas_23
+  - first:
+      213: -5524984985212530156
+    second: ParticlesSprietAtlas_24
+  - first:
+      213: -7504501661544116571
+    second: ParticlesSprietAtlas_25
+  - first:
+      213: -6981800698578492414
+    second: ParticlesSprietAtlas_26
+  - first:
+      213: 267966208357533122
+    second: ParticlesSprietAtlas_27
+  - first:
+      213: 6447712314914755172
+    second: ParticlesSprietAtlas_28
+  - first:
+      213: 3999999234410069928
+    second: ParticlesSprietAtlas_29
+  - first:
+      213: -9118444482432233349
+    second: ParticlesSprietAtlas_30
+  - first:
+      213: -4106236747777436032
+    second: ParticlesSprietAtlas_31
+  - first:
+      213: -4639474412957632391
+    second: ParticlesSprietAtlas_32
+  - first:
+      213: -1312955681796251974
+    second: ParticlesSprietAtlas_33
+  - first:
+      213: 7081630219312373142
+    second: ParticlesSprietAtlas_34
+  - first:
+      213: 1677708294073827200
+    second: ParticlesSprietAtlas_35
+  - first:
+      213: 1331017078190902714
+    second: ParticlesSprietAtlas_36
+  - first:
+      213: -5311486483075957254
+    second: ParticlesSprietAtlas_37
+  - first:
+      213: 8487484017179795238
+    second: ParticlesSprietAtlas_38
+  - first:
+      213: 5054081863765430123
+    second: ParticlesSprietAtlas_39
+  - first:
+      213: 1386329664040402783
+    second: ParticlesSprietAtlas_40
+  - first:
+      213: -787691181195853217
+    second: ParticlesSprietAtlas_41
+  - first:
+      213: -6255262402426162277
+    second: ParticlesSprietAtlas_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesSprietAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e604c253c1ada470800000000000000
+      internalID: 8407553939649857251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSprietAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce90c4a2252b400800000000000000
+      internalID: 338423263624031232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSprietAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f2a831c4fee4f0800000000000000
+      internalID: -797430973281930598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSprietAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d3e4ffa35c0d10800000000000000
+      internalID: 2093139942013392176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSprietAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455308af071e1fc50800000000000000
+      internalID: 6697381996231931220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesSprietAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec185597320e2fe0800000000000000
+      internalID: -1212028811964048150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

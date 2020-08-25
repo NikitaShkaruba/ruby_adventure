@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 2248ebf29a4b10d40ab10e4d646e8209
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5325455174355562970
+    second: MrClockworkSheet_0
+  - first:
+      213: -1721885687753823957
+    second: MrClockworkSheet_1
+  - first:
+      213: 8879829194965339106
+    second: MrClockworkSheet_2
+  - first:
+      213: -2154302389231162529
+    second: MrClockworkSheet_3
+  - first:
+      213: -7433943464092835796
+    second: MrClockworkSheet_4
+  - first:
+      213: -1604563900523290359
+    second: MrClockworkSheet_5
+  - first:
+      213: -7826755367793165044
+    second: MrClockworkSheet_6
+  - first:
+      213: -4754900630399371663
+    second: MrClockworkSheet_7
+  - first:
+      213: -5781392945152212480
+    second: MrClockworkSheet_8
+  - first:
+      213: -394204204867884520
+    second: MrClockworkSheet_9
+  - first:
+      213: -6776917948848621843
+    second: MrClockworkSheet_10
+  - first:
+      213: -3633181196783428708
+    second: MrClockworkSheet_11
+  - first:
+      213: -2044637534909811349
+    second: MrClockworkSheet_12
+  - first:
+      213: -4259985286393373953
+    second: MrClockworkSheet_13
+  - first:
+      213: -1610584654086336846
+    second: MrClockworkSheet_14
+  - first:
+      213: -3436138825435646282
+    second: MrClockworkSheet_15
+  - first:
+      213: -3574952632413668907
+    second: MrClockworkSheet_16
+  - first:
+      213: 3143446522961267030
+    second: MrClockworkSheet_17
+  - first:
+      213: 6302047433447217028
+    second: MrClockworkSheet_18
+  - first:
+      213: 6446417166712267000
+    second: MrClockworkSheet_19
+  - first:
+      213: -3971426012112547737
+    second: MrClockworkSheet_20
+  - first:
+      213: -423725738499096078
+    second: MrClockworkSheet_21
+  - first:
+      213: 7772177311511770857
+    second: MrClockworkSheet_22
+  - first:
+      213: 696360913630002477
+    second: MrClockworkSheet_23
+  - first:
+      213: -1862107529139833110
+    second: MrClockworkSheet_24
+  - first:
+      213: -8675008749944473535
+    second: MrClockworkSheet_25
+  - first:
+      213: 106342465565855865
+    second: MrClockworkSheet_26
+  - first:
+      213: 3916804464555538526
+    second: MrClockworkSheet_27
+  - first:
+      213: -1392350378692639840
+    second: MrClockworkSheet_28
+  - first:
+      213: 2234721078996848328
+    second: MrClockworkSheet_29
+  - first:
+      213: 9090165163859471273
+    second: MrClockworkSheet_30
+  - first:
+      213: 7271924596620632938
+    second: MrClockworkSheet_31
+  - first:
+      213: 7978393136575123433
+    second: MrClockworkSheet_32
+  - first:
+      213: 3758001481837022404
+    second: MrClockworkSheet_33
+  - first:
+      213: -5365313761109309780
+    second: MrClockworkSheet_34
+  - first:
+      213: 1966153540666077243
+    second: MrClockworkSheet_35
+  - first:
+      213: -5279492968167738728
+    second: MrClockworkSheet_36
+  - first:
+      213: 470263612340883530
+    second: MrClockworkSheet_37
+  - first:
+      213: -1549013685035292676
+    second: MrClockworkSheet_38
+  - first:
+      213: 2897392223379692343
+    second: MrClockworkSheet_39
+  - first:
+      213: -8361162292585779427
+    second: MrClockworkSheet_40
+  - first:
+      213: -8464781792356057668
+    second: MrClockworkSheet_41
+  - first:
+      213: 6419432038526072517
+    second: MrClockworkSheet_42
+  - first:
+      213: -3897870742848467865
+    second: MrClockworkSheet_43
+  - first:
+      213: -7924950886294603121
+    second: MrClockworkSheet_44
+  - first:
+      213: -8519988308332956242
+    second: MrClockworkSheet_45
+  - first:
+      213: 3445058443876581161
+    second: MrClockworkSheet_46
+  - first:
+      213: 2299881797970550049
+    second: MrClockworkSheet_47
+  - first:
+      213: 5741893098423957001
+    second: MrClockworkSheet_48
+  - first:
+      213: 1773288018420830272
+    second: MrClockworkSheet_49
+  - first:
+      213: 2410308411469256079
+    second: MrClockworkSheet_50
+  - first:
+      213: -4524156617355539159
+    second: MrClockworkSheet_51
+  - first:
+      213: 1937304807174000415
+    second: MrClockworkSheet_52
+  - first:
+      213: -5667432648323133214
+    second: MrClockworkSheet_53
+  - first:
+      213: 516291887902423226
+    second: MrClockworkSheet_54
+  - first:
+      213: -8284725638237245090
+    second: MrClockworkSheet_55
+  - first:
+      213: 9193663556645107099
+    second: MrClockworkSheet_56
+  - first:
+      213: -3986155055521466709
+    second: MrClockworkSheet_57
+  - first:
+      213: -503667215347223994
+    second: MrClockworkSheet_58
+  - first:
+      213: -5267030499686429705
+    second: MrClockworkSheet_59
+  - first:
+      213: 386234079452282558
+    second: MrClockworkSheet_60
+  - first:
+      213: 3344793365985753249
+    second: MrClockworkSheet_61
+  - first:
+      213: -4567402555397140246
+    second: MrClockworkSheet_62
+  - first:
+      213: -44511409897585361
+    second: MrClockworkSheet_63
+  - first:
+      213: -5897649266727977441
+    second: MrClockworkSheet_64
+  - first:
+      213: -6559750646811159775
+    second: MrClockworkSheet_65
+  - first:
+      213: -4363476405604879366
+    second: MrClockworkSheet_66
+  - first:
+      213: 4358275837769478990
+    second: MrClockworkSheet_67
+  - first:
+      213: -4808550921451352502
+    second: MrClockworkSheet_68
+  - first:
+      213: -6410006168608615719
+    second: MrClockworkSheet_69
+  - first:
+      213: -3589054542656818031
+    second: MrClockworkSheet_70
+  - first:
+      213: 6406232409934285940
+    second: MrClockworkSheet_71
+  - first:
+      213: 9063088746450855544
+    second: MrClockworkSheet_72
+  - first:
+      213: -7013723670487450524
+    second: MrClockworkSheet_73
+  - first:
+      213: 4869050755214225908
+    second: MrClockworkSheet_74
+  - first:
+      213: 2517176592468408143
+    second: MrClockworkSheet_75
+  - first:
+      213: -63328956000379959
+    second: MrClockworkSheet_76
+  - first:
+      213: 2377428884051491770
+    second: MrClockworkSheet_77
+  - first:
+      213: -5236913889120519278
+    second: MrClockworkSheet_78
+  - first:
+      213: 8604271208434866126
+    second: MrClockworkSheet_79
+  - first:
+      213: -4842790479905614007
+    second: MrClockworkSheet_80
+  - first:
+      213: -6854049277879925235
+    second: MrClockworkSheet_81
+  - first:
+      213: 412111492267377691
+    second: MrClockworkSheet_82
+  - first:
+      213: -6758150340904265700
+    second: MrClockworkSheet_83
+  - first:
+      213: -7768738317820925128
+    second: MrClockworkSheet_84
+  - first:
+      213: -345121709622437506
+    second: MrClockworkSheet_85
+  - first:
+      213: -318126084854963758
+    second: MrClockworkSheet_86
+  - first:
+      213: 6296692317251806171
+    second: MrClockworkSheet_87
+  - first:
+      213: -2467463509176492352
+    second: MrClockworkSheet_88
+  - first:
+      213: 2791115337198979996
+    second: MrClockworkSheet_89
+  - first:
+      213: -3684173196734209386
+    second: MrClockworkSheet_90
+  - first:
+      213: 3754722659288791236
+    second: MrClockworkSheet_91
+  - first:
+      213: 2044605172825469696
+    second: MrClockworkSheet_92
+  - first:
+      213: 5792661844230555756
+    second: MrClockworkSheet_93
+  - first:
+      213: 1044492781806411559
+    second: MrClockworkSheet_94
+  - first:
+      213: 989120615651158441
+    second: MrClockworkSheet_95
+  - first:
+      213: -559445383569442506
+    second: MrClockworkSheet_96
+  - first:
+      213: 7697983751636092636
+    second: MrClockworkSheet_97
+  - first:
+      213: -5686388706256691383
+    second: MrClockworkSheet_98
+  - first:
+      213: -8533173302908158011
+    second: MrClockworkSheet_99
+  - first:
+      213: -1652576196659512391
+    second: MrClockworkSheet_100
+  - first:
+      213: 7703028123381460732
+    second: MrClockworkSheet_101
+  - first:
+      213: 7643489556356024322
+    second: MrClockworkSheet_102
+  - first:
+      213: -4365086340977763218
+    second: MrClockworkSheet_103
+  - first:
+      213: -1846159478098248093
+    second: MrClockworkSheet_104
+  - first:
+      213: -6666283727289141193
+    second: MrClockworkSheet_105
+  - first:
+      213: 8739505927853277039
+    second: MrClockworkSheet_106
+  - first:
+      213: -943023171805479971
+    second: MrClockworkSheet_107
+  - first:
+      213: -8350005149032944465
+    second: MrClockworkSheet_108
+  - first:
+      213: 7608468260080662019
+    second: MrClockworkSheet_109
+  - first:
+      213: -7533570831832857647
+    second: MrClockworkSheet_110
+  - first:
+      213: -8475750375104321390
+    second: MrClockworkSheet_111
+  - first:
+      213: 2907978716720475150
+    second: MrClockworkSheet_112
+  - first:
+      213: -6830644375550590186
+    second: MrClockworkSheet_113
+  - first:
+      213: 5422046124287211569
+    second: MrClockworkSheet_114
+  - first:
+      213: 4231511934363199953
+    second: MrClockworkSheet_115
+  - first:
+      213: 2754207863505329367
+    second: MrClockworkSheet_116
+  - first:
+      213: -1782332857287123018
+    second: MrClockworkSheet_117
+  - first:
+      213: 2140146991706732219
+    second: MrClockworkSheet_118
+  - first:
+      213: -4409129234076040347
+    second: MrClockworkSheet_119
+  - first:
+      213: 1129371239332630286
+    second: MrClockworkSheet_120
+  - first:
+      213: -1125960397289622017
+    second: MrClockworkSheet_121
+  - first:
+      213: 7317980085009690005
+    second: MrClockworkSheet_122
+  - first:
+      213: -1751505015733103602
+    second: MrClockworkSheet_123
+  - first:
+      213: 3827461799871999562
+    second: MrClockworkSheet_124
+  - first:
+      213: -7433864880608402067
+    second: MrClockworkSheet_125
+  - first:
+      213: -2161303070658656800
+    second: MrClockworkSheet_126
+  - first:
+      213: -4731734200859194359
+    second: MrClockworkSheet_127
+  - first:
+      213: 6101357690379804069
+    second: MrClockworkSheet_128
+  - first:
+      213: -4171754444339187732
+    second: MrClockworkSheet_129
+  - first:
+      213: 5562649498965871756
+    second: MrClockworkSheet_130
+  - first:
+      213: -4763684921857301640
+    second: MrClockworkSheet_131
+  - first:
+      213: -672176399408273816
+    second: MrClockworkSheet_132
+  - first:
+      213: -5447231644142847355
+    second: MrClockworkSheet_133
+  - first:
+      213: -7239150714883311302
+    second: MrClockworkSheet_134
+  - first:
+      213: -2556908196077987598
+    second: MrClockworkSheet_135
+  - first:
+      213: -5479324030193136124
+    second: MrClockworkSheet_136
+  - first:
+      213: 8269708540718493041
+    second: MrClockworkSheet_137
+  - first:
+      213: -6843853957268428324
+    second: MrClockworkSheet_138
+  - first:
+      213: 6402033450836756152
+    second: MrClockworkSheet_139
+  - first:
+      213: 202673392949779313
+    second: MrClockworkSheet_140
+  - first:
+      213: -4822254137928316535
+    second: MrClockworkSheet_141
+  - first:
+      213: -7453902297725977165
+    second: MrClockworkSheet_142
+  - first:
+      213: -1994624836915685097
+    second: MrClockworkSheet_143
+  - first:
+      213: 2143384463305992823
+    second: MrClockworkSheet_144
+  - first:
+      213: 1054206995731613368
+    second: MrClockworkSheet_145
+  - first:
+      213: 3034549350684660455
+    second: MrClockworkSheet_146
+  - first:
+      213: 5561535313331416668
+    second: MrClockworkSheet_147
+  - first:
+      213: 8537451798579541459
+    second: MrClockworkSheet_148
+  - first:
+      213: -5152464746753749254
+    second: MrClockworkSheet_149
+  - first:
+      213: 5142398552908828745
+    second: MrClockworkSheet_150
+  - first:
+      213: -7111558056356408315
+    second: MrClockworkSheet_151
+  - first:
+      213: 2227552931948909095
+    second: MrClockworkSheet_152
+  - first:
+      213: -9062374833802169278
+    second: MrClockworkSheet_153
+  - first:
+      213: 2369151936724042546
+    second: MrClockworkSheet_154
+  - first:
+      213: -1199743332580557125
+    second: MrClockworkSheet_155
+  - first:
+      213: 2639233836472393920
+    second: MrClockworkSheet_156
+  - first:
+      213: -5590529529295616804
+    second: MrClockworkSheet_157
+  - first:
+      213: -6818982916968418398
+    second: MrClockworkSheet_158
+  - first:
+      213: -8237392106598501464
+    second: MrClockworkSheet_159
+  - first:
+      213: -508832085479900160
+    second: MrClockworkSheet_160
+  - first:
+      213: -2397889248834666524
+    second: MrClockworkSheet_161
+  - first:
+      213: -4355291290019069870
+    second: MrClockworkSheet_162
+  - first:
+      213: 3984499227829759805
+    second: MrClockworkSheet_163
+  - first:
+      213: 4074144804263398239
+    second: MrClockworkSheet_164
+  - first:
+      213: -8523821546769302686
+    second: MrClockworkSheet_165
+  - first:
+      213: 4481740479418023233
+    second: MrClockworkSheet_166
+  - first:
+      213: 7111211983842065923
+    second: MrClockworkSheet_167
+  - first:
+      213: 82527827340141252
+    second: MrClockworkSheet_168
+  - first:
+      213: 6505165830741543762
+    second: MrClockworkSheet_169
+  - first:
+      213: 9102182851485137249
+    second: MrClockworkSheet_170
+  - first:
+      213: -718428184942051572
+    second: MrClockworkSheet_171
+  - first:
+      213: -1523375913654595782
+    second: MrClockworkSheet_172
+  - first:
+      213: -3842248319201350401
+    second: MrClockworkSheet_173
+  - first:
+      213: 9067008103496688616
+    second: MrClockworkSheet_174
+  - first:
+      213: 9021931277761303957
+    second: MrClockworkSheet_175
+  - first:
+      213: -981621366225379581
+    second: MrClockworkSheet_176
+  - first:
+      213: 3762515613647177852
+    second: MrClockworkSheet_177
+  - first:
+      213: 4259854107485206668
+    second: MrClockworkSheet_178
+  - first:
+      213: -2879079597368214786
+    second: MrClockworkSheet_179
+  - first:
+      213: 8043537518670106
+    second: MrClockworkSheet_180
+  - first:
+      213: 6386228077560110617
+    second: MrClockworkSheet_181
+  - first:
+      213: -1332036762787885163
+    second: MrClockworkSheet_182
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MrClockworkSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.47043282, y: 0.07094275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1babef341d7e940800000000000000
+      internalID: 5325455174355562970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1023
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.529567, y: 0.08606148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29aa950712aa18e0800000000000000
+      internalID: -1721885687753823957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1023.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.470433, y: 0.078340456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4d000b9d7b3b70800000000000000
+      internalID: 8879829194965339106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1023.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.48521686, y: 0.0931354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be91714616a12e0800000000000000
+      internalID: -2154302389231162529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.078670025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e86e5ec355d890800000000000000
+      internalID: -7433943464092835796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.49260843, y: 0.09313564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e4e142a17bb9e0800000000000000
+      internalID: -1604563900523290359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.47782516, y: 0.07094347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7ecef577c16390800000000000000
+      internalID: -7826755367793165044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.48521686, y: 0.100533105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b3c6b113330eb0800000000000000
+      internalID: -4754900630399371663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.10053287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c04d5fbd54cfa0800000000000000
+      internalID: -5781392945152212480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 513.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.47043312, y: 0.07834022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a62ef3d51878af0800000000000000
+      internalID: -394204204867884520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 513.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.4630413, y: 0.07834022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b8eaf70d83f1a0800000000000000
+      internalID: -6776917948848621843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 513.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.49260855, y: 0.08573793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b581173f8549dc0800000000000000
+      internalID: -3633181196783428708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.48521635, y: 0.07094251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653545befcff93e0800000000000000
+      internalID: -2044637534909811349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.49260843, y: 0.056147452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad120d3fd71e4c0800000000000000
+      internalID: -4259985286393373953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.470433, y: 0.056147452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0d745acd06a9e0800000000000000
+      internalID: -1610584654086336846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 258.2
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.4463005, y: 0.06334807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6faf691f16050d0800000000000000
+      internalID: -3436138825435646282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.5268499, y: 0.063348435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b2209587336ec0800000000000000
+      internalID: -3574952632413668907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3.199997
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.5201373, y: 0.063348435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6590b8b35f3cf9b20800000000000000
+      internalID: 3143446522961267030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3.199997
+        width: 256
+        height: 255.8
+      alignment: 9
+      pivot: {x: 0.45972538, y: 0.063348435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487984440ce557750800000000000000
+      internalID: 6302047433447217028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3.199997
+        width: 256
+        height: 255.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06ddf2246467950800000000000000
+      internalID: 6446417166712267000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrClockworkSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76019406519a2e8c0800000000000000
+      internalID: -3971426012112547737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
